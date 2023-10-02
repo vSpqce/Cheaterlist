@@ -35,8 +35,8 @@ IGN: meowinh
 Replay code (if any): 
 Discord: []
 Cheats used: Auto velo 
-Date: DD/MM/YY -
-Comment: 
+Date:
+Comment:
 Caught by: envylnn
 Positive?: 
 Evidence:
@@ -926,7 +926,7 @@ Discord: []
 Replay code (if any):
 Cheats used: Clients
 Caught By: fall
-Date: DD/MM/YY - 07/02/2023
+Date: 07/02/2023
 Comment: couldnt find discord due to new user changes
 Positivity: 100%
 Evidence:

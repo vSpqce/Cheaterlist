@@ -16,3 +16,7 @@ I will probably update this as most listings are added. That's it, have a nice d
 Started uploading evidence images and discord videos to youtube and google drive.
 A lot of the images from previous listings were deleted by discord so I'm uploading them to google drive and youtube respectively so they stay long-term.
 [Note] I am not re-uploading videos if they weren't originally uploaded to discord.
+
+#### Update 2 - 10/17/2023
+Since the original #90 listing was deleted from the discord, the server considered the next one #90 but I am keeping every single listing even if it was deleted so I will consider it listing #91.
+[Note] Every listing on the Discord from #90 onwards is that listing number incremented by 1 here.

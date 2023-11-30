@@ -20,6 +20,8 @@ caughtBy = input("Caught by: ")
 positivity = input("Positive?: ")
 comment = input("Comment: ")
 
+os.system('cls')
+
 listing = f"""
 {number}.
 IGN: {ign}
@@ -36,4 +38,4 @@ Evidence:
 
 """
 print(listing)
-subprocess.run(f"echo {listing}|clip", shell=True) # copy to clipboard (Windows). This is currently not working. I have an idea as to why but I don't care enough rn to deal with it
+# subprocess.run(f"echo {listing}|clip", shell=True) # copy to clipboard (Windows). This is currently not working. I have an idea as to why but I don't care enough rn to deal with it

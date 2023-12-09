@@ -13,7 +13,13 @@ os.system('cls')
 
 number = input("listing #: ")
 ign = input("IGN: ")
-discordUsername, id = input("discord (username, id): ").split(", ")
+discord = input("discord (username, id): ")
+if (discord == "unknown" or discord == "unk"):
+    discordUsername = "unknown"
+    id = ""
+else:
+    discordUsername, id = discord.split(", ")
+
 cheatsUsed = input("Cheats used: ")
 date = input("Date (month/day/year): ")
 caughtBy = input("Caught by: ")

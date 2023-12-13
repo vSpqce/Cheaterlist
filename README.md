@@ -22,6 +22,10 @@ Started uploading evidence images and discord videos to youtube and google drive
 A lot of the images from previous listings were deleted by discord so I'm uploading them to google drive and youtube respectively so they stay long-term.
 [Note] I am not re-uploading videos if they weren't originally uploaded to discord.
 
-#### Update 2 - 10/17/2023
+#### ~~Update 2 - 10/17/2023~~
 Since the original #90 listing was deleted from the discord, the server considered the next one #90 but I am keeping every single listing even if it is deleted so I will consider it listing #91.
 [Note] Every listing on the Discord from #90 onwards is that listing number incremented by 1 here.
+
+#### Update 3 - 12/12/2023
+I want it to be convenient to view this list so I decided to change every listing number to the actual listing number on the CheaterList discord. The deleted listings will still show up if I saved them before deletion.
+[Note] This update reverts the number increment in [Update 2](#update-2---10172023)

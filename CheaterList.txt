@@ -32,13 +32,13 @@ https://www.youtube.com/watch?v=AlQTNIu32RA
 
 4.
 IGN: meowinh
-Replay code (if any): 
+Replay code (if any):
 Discord: []
-Cheats used: Auto velo 
+Cheats used: Auto velo
 Date:
 Comment:
 Caught by: envylnn
-Positive?: 
+Positive?:
 Evidence:
 https://cdn.discordapp.com/attachments/1027875787535306782/1097818149887430818/skull__-_Trim.mov
 
@@ -49,7 +49,7 @@ Cheats used: Velo
 Date: D/M/Y  — 15/10/2022
 Caught by: xMqlo
 Positive?: 100%
-Evidence: 
+Evidence:
 https://streamable.com/urhple
 https://streamable.com/s4n067
 
@@ -60,7 +60,7 @@ Cheats used: Velo, Reach
 Date: 8 Oct 2022
 Caught by: zyzui
 Positive?: 100%
-Evidence: 
+Evidence:
 https://www.youtube.com/watch?v=VOL_OdaayDY
 
 7.
@@ -90,7 +90,7 @@ Cheats used: Clients
 Date: 09/09/2022
 Caught by: xMqlo
 Positive?: 100%
-Evidence: 
+Evidence:
 https://streamable.com/qzqy4v
 
 10.
@@ -100,7 +100,7 @@ Cheats used: Reach
 Date: 10/08/2022
 Caught by: esniper
 Positive?: 70%
-Evidence: 
+Evidence:
 https://youtu.be/gIuIMsa4NQo
 
 11.
@@ -120,13 +120,13 @@ Cheats used: Client
 Date: 29/06/2022
 Caught by: Rz
 Positive?: 100%
-Evidence: 
+Evidence:
 https://streamable.com/cy1m56
 
 13.
 IGN: eorcl (main account)
 Discord: N/A
-Cheats used: 
+Cheats used:
 Date: 19/06/2022
 Caught by: brazlian monkey
 Positive?: 100%
@@ -134,7 +134,7 @@ Evidence:
 https://streamable.com/npyxde
 
 14.
-IGN: rewvva 
+IGN: rewvva
 Discord: N/A
 Cheats used: auto
 Date: 04/06/2022
@@ -151,7 +151,7 @@ Cheats used: velocity, reach
 Date: 04/06/2022
 Caught by: Dismal
 Positive?: 70%
-Evidence: 
+Evidence:
 https://streamable.com/3or3vj
 
 16.
@@ -161,7 +161,7 @@ Cheats used: auto, kb mods , reach
 Date: 03/06/2022
 Caught by: Eu com
 Positive?: 100%
-Evidence: 
+Evidence:
 https://streamable.com/76h3yl
 https://streamable.com/pnicnt
 
@@ -242,7 +242,7 @@ Cheats used: Reach, velo, hitbox
 Date: 11/11/2022
 Caught by: IllegalClicks
 Positive?: 90%
-Evidence: 
+Evidence:
 https://streamable.com/9jgfxx
 https://streamable.com/s5t976
 
@@ -254,7 +254,7 @@ Date: 11/13/2022
 Caught by: Classy
 Positive?: 100%
 Comment: Self proclaimed best player
-Evidence: 
+Evidence:
 https://streamable.com/z0yze6
 
 26.
@@ -278,7 +278,7 @@ Cheats used: reach, velo
 Date: 11/18/2022
 Caught by: zero
 Positive?: 80%
-Evidence: 
+Evidence:
 https://streamable.com/m1pplj
 
 28.
@@ -301,7 +301,7 @@ Cheats used: reach, velo
 Date: 11/26/2022
 Caught by: N/A
 Positive?: 100%
-Evidence: 
+Evidence:
 https://streamable.com/npvoeo
 
 30.
@@ -309,7 +309,7 @@ IGN: ThxtsMyWxffel
 Discord: Adrian'#0001
 Cheats used: Horion, Auto
 Date: 12/3/2022
-Comment: A random ss was called during a sumo, the cheats were found to be opened right before. 
+Comment: A random ss was called during a sumo, the cheats were found to be opened right before.
 Caught by: Classy
 Positive?: 90%
 Evidence:
@@ -327,9 +327,9 @@ Evidence:
 https://www.youtube.com/watch?v=-EU4pV2S65o&ab_channel=Opossum
 
 32.
-IGN: petrifiyng 
+IGN: petrifiyng
 Discord: 🫶🏼#0006 [460428253262512139]
-Cheats used: Clients 
+Cheats used: Clients
 Date: 12/12/2022
 Comment: Took forever to send anydesk code because he was restarting pc. Up time is 12 minutes. Horion injected used yesterday (likely kept his pc on for a day then restarted)
 Caught by: Classy
@@ -356,7 +356,7 @@ Cheats used: Clients
 Date: 12/22/2022
 Caught by: That
 Positive?: 100%
-Evidence: 
+Evidence:
 https://streamable.com/vfe9wk
 
 35.
@@ -385,10 +385,10 @@ IGN: xSuperrVI
 Discord: Super#0666 [679859093938503685]
 Cheats used: Velo
 Date: 12/25/2022
-Comment: 
+Comment:
 Caught by: melo
 Positive?: 80%
-Evidence: 
+Evidence:
 https://streamable.com/aj24k1
 https://streamable.com/tzh3k6
 
@@ -524,7 +524,7 @@ IGN: xCovertJl
 Discord: xCovertJI#3232 [863767147808292885]
 Cheats used: Auto, client
 Date: 02/14/2023
-Comment: Claims to be innocent but uploaded a video where he peaked 120cps, failed ss and was seen using a client via discord rich presence 
+Comment: Claims to be innocent but uploaded a video where he peaked 120cps, failed ss and was seen using a client via discord rich presence
 Caught by: Piggyplex
 Positive?: 100%
 Evidence:
@@ -577,7 +577,7 @@ Replay code (if any): 48587,0c0debdac84b46a3
 Discord: Haseki#7850 [874857788902375455]
 Cheats used: Velo
 Date: multiple
-Comment: 
+Comment:
 Caught by: MasonOderSo
 Positive?: 80%
 Evidence:
@@ -617,7 +617,7 @@ Don't know what happened lol this listing was completely blank - Spqce.
 [Duplicate of #48]
 
 IGN: xCovertJi
-Replay code (if any): 
+Replay code (if any):
 Discord: xCovertJI #3232 [863767147808292885]
 Cheats used: Clients / Auto
 Date: 03/20/2023
@@ -640,7 +640,7 @@ Evidence:
 https://streamable.com/wcbjii
 
 58.
-IGN: Jukqido 
+IGN: Jukqido
 Replay code (if any):
 Discord: Julian#0005 []
 Cheats used: Velocity
@@ -676,18 +676,18 @@ https://media.discordapp.net/attachments/1077750328239333478/1094219102295425175
 
 ANOTHER THING FOR U SILLY MEN 😛
 
-When the SS started I said me and julian had this conversation 
+When the SS started I said me and julian had this conversation
 
 Nano: “What do you joke toggle with”
 Julian: “Nitr0”
-Nano: “Wheres your nitr0” 
+Nano: “Wheres your nitr0”
 Julian: “I deleted it”
 Nano: “When was the last time you joke toggled”
 Julian: “I cant even remember”
 
-After this conversation I checked his whole PC to find a client he had ran since he last restarted his pc (He hadnt restarted his pc in 2 days), After searching his whole pc for cheats he had not hidden I came to the conclusion he had not ran a client without a bypass in the last 2 days. 
+After this conversation I checked his whole PC to find a client he had ran since he last restarted his pc (He hadnt restarted his pc in 2 days), After searching his whole pc for cheats he had not hidden I came to the conclusion he had not ran a client without a bypass in the last 2 days.
 
-Meaning if he had cheated in the last 2 days (Which he denied doing) he would have to have used a bypass to hide it from me. 
+Meaning if he had cheated in the last 2 days (Which he denied doing) he would have to have used a bypass to hide it from me.
 
 Later on in the SS we found the screenshots you see on the first page of his document proving he had ran a bypass during the scrim.
 
@@ -707,7 +707,7 @@ Evidence:
 https://youtu.be/AhgXuGLhND8
 
 61.
-IGN: azcic 
+IGN: azcic
 Discord: Az#0398 [997423727908241419]
 Replay code (if any):
 Cheats used: Reach
@@ -820,7 +820,7 @@ Replay code (if any):
 Cheats used: Clients
 Caught By: kr
 Date: 05/30/2023
-Comment: 
+Comment:
 Positivity: 100%
 Evidence
 https://www.youtube.com/watch?v=kJqSCMhqDJo
@@ -845,7 +845,7 @@ Replay code (if any):
 Cheats used: Clients
 Caught By: Rome
 Date: 06/03/2023
-Comment: 
+Comment:
 Positivity: 100%
 Evidence:
 https://streamable.com/avqwtx71.
@@ -885,7 +885,7 @@ Replay code (if any):
 Cheats used: Clients
 Caught By:  PiggyPlex
 Date: 6/12/2023
-Comment: "blatantly admits to playing scrims with macros on his mouse, whether or not he uses it in the scrim 
+Comment: "blatantly admits to playing scrims with macros on his mouse, whether or not he uses it in the scrim
 claims he only cheats in scrims but closes MC before SS + self destructs CND client before SS + uninstalls mouse software right before SS
 I have additional proof but I'd like to keep them from being posted publicly
 Dateiloschung | Schliessen translates to File Deletion | Close in English if you are wondering"
@@ -978,7 +978,7 @@ Replay code (if any):
 Cheats used: timer & reach
 Caught By: Communiicate
 Date: 08/17/2023+
-Comment: Cleary since uzide keeps getting reported on the list i thought I'd actually add him on here, for anyone that isnt aware uzide is an open cheater but only denies the hard accusations in a sarcastic tone for the comedy. 
+Comment: Cleary since uzide keeps getting reported on the list i thought I'd actually add him on here, for anyone that isnt aware uzide is an open cheater but only denies the hard accusations in a sarcastic tone for the comedy.
 Positivity: 100%
 Evidence:
 https://www.youtube.com/watch?v=XitQsEU_NsU
@@ -1034,9 +1034,8 @@ IGN: Dr4mr
 Discord: dr4mr [956904957980868639]
 Cheats used: velocity or timer
 Date: Happened over a few months
-Comment: the biggest wannabe top 10 sumo caught cheating😭😭 hes pretty much 7-1 in practicals and
-SSes.
-Dr4mr endages (will update as time goes on) 
+Comment: the biggest wannabe top 10 sumo caught cheating😭😭 hes pretty much 7-1 in practicals and SSes.
+Dr4mr endages (will update as time goes on):
 https://youtube.com/playlist?list=PLyJBBj4dJY5UJH8zBM4i7RyRN1z4Fvhr2&si=L8KIo1VLd-TQmlIs
 Caught by: the sumo community
 Positive?: 100%
@@ -1117,7 +1116,7 @@ Cheats used: reach
 Date: a while ago
 Caught by: anabsurdlylongname & ztachy
 Positive?: 100%
-Comment: 
+Comment:
 Evidence:
 https://youtu.be/T-gXpcPw7ow
 
@@ -1132,7 +1131,7 @@ Cheats used: horion & disabled dns manually (which is a fail)
 Date: 09/08/23
 Caught by: 3itcoin
 Positive?: 100%
-Comment: 
+Comment:
 Evidence:
 https://drive.google.com/file/d/1J66QOluOW4yeLPkxr-6aeLF0bGgaONjh/view?usp=drive_link
 
@@ -1146,7 +1145,7 @@ Cheats used: reach
 Date: Sometime in September 2023
 Caught by: swqpped
 Positive?: 100%
-Comment: 
+Comment:
 Evidence:
 https://youtu.be/xolRImAOe0w?feature=shared
 
@@ -1168,7 +1167,7 @@ Cheats used: nitr0
 Date: 10/22/2023 1:12 PM
 Caught by: bofus & nanoxi
 Positive?: 100%
-Comment: he was on the bloody core 4 which tripple clicks by default 
+Comment: he was on the bloody core 4 which tripple clicks by default
 Evidence:
 https://drive.google.com/file/d/11wIScjZ1jPUQCy7vegTPZmEky2zIjU1S/view?usp=drive_link
 https://drive.google.com/file/d/1msaNMV7T234NJKg8v-ONJbElwiQgL62O/view?usp=drive_link
@@ -1267,7 +1266,7 @@ https://cdn.discordapp.com/attachments/1039251993811746846/1171254839674675262/c
 IGN: Sl3ndyy
 Discord: sl3ndyy [366274940791685122]
 Cheats used: reach
-Date: 
+Date:
 Caught by: idk
 Positive?: 100%
 Comment: i love his bunny louise
@@ -1572,7 +1571,7 @@ Discord: brcdy [658742562781265920]
 Cheats used: horion
 Date: 12/09/23
 Caught by: xXrvper
-Positive?: unknown%
+Positive?: unknown
 Comment: bud isnt slick i guess hes #2 monthly too
 Evidence:
 Unknown
@@ -1642,7 +1641,7 @@ IGN: zFllitghting
 Discord: as s’#9097 [unknown]
 Cheats used: reach
 Date: 1/10/23
-Comment: 
+Comment:
 Caught by: noura xly
 Positive?: 95%
 Evidence:
@@ -1962,3 +1961,31 @@ https://drive.google.com/file/d/1M88ppyyEFoEC-7Lo2dJNxqIg__EnkHA6/view?usp=drive
 [original evidence]
 https://cdn.discordapp.com/attachments/1039251993811746846/1192766563955249212/Minecraft_2023.12.17_-_01.13.28.05.mp4?ex=65aa456d&is=6597d06d&hm=cacf93d4b26655704d5fb65d56cffbd91f067041b90f27539c29d4f0c5577e50&
 https://cdn.discordapp.com/attachments/1039251993811746846/1192766564789932082/ffaill.png?ex=65aa456d&is=6597d06d&hm=35e0007460bc862678d7fbc75bc335ac108afc92c86cfd0e55e779835b9ba175&
+
+142.
+IGN: dont wqke me
+Discord: unknown
+Cheats used: velocity, reach
+Date: 12/31/23
+Caught by: zg
+Positive?: 100%%
+Comment: good jump resetter
+Evidence:
+https://youtu.be/cZE_UuoM1Q4
+
+[original evidence]
+https://cdn.discordapp.com/attachments/1039251993811746846/1193221339062997072/RPReplay_Final1704060879.mov?ex=65abecf8&is=659977f8&hm=afa3e1e672e4294dc37c5872b4141b8fb9734a5490d1af1ca5afcfa3ea1cdbd3&
+
+143.
+IGN: banzes
+Discord: banzes [1126658792558440510]
+Cheats used: reach
+Date: 1/1/23
+Caught by: anonymous
+Positive?: 100%%
+Comment: he is getting first hit from that far it is not after a trade
+Evidence:
+https://youtu.be/oz7VaZIhydo
+
+[original evidence]
+https://cdn.discordapp.com/attachments/1039251993811746846/1193222095467986944/RPReplay_Final1704137340.mov?ex=65abedac&is=659978ac&hm=1a6a1533cc2f5bd436aa430549e7defd0a2e0c589316e165f72018939730a402&

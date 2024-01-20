@@ -1,3 +1,6 @@
+# IMPORTANT NEWS, DON't SKIP
+## The CheaterList Discord server was deleted during a raid and this may be the last remaining archive of the official list.
+
 # CheaterList in a .txt file
 
 #### [Video Evidence](https://youtube.com/playlist?list=PLnR2ZzQMH2ThBdVK7Iv6lmnBmd7WIO5fI&feature=shared)

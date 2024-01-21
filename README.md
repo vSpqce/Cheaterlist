@@ -34,4 +34,4 @@ I want it to be convenient to view this list so I decided to change every listin
 Started moving images to folders corresponding with player names to better organize the main folder.
 
 ### Update 5 - 01/21/2024
-There is a new CheaterList Discord server so the CheaterList 2.0 file will be the most up to date list.
+There is a new CheaterList Discord server so the CheaterList 2 file will be the most up to date list.

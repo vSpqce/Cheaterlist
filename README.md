@@ -1,6 +1,3 @@
-# IMPORTANT NEWS, DON't SKIP
-## The CheaterList Discord server was deleted during a raid and this may be the last remaining archive of the official list.
-
 # CheaterList in a .txt file
 
 #### [Video Evidence](https://youtube.com/playlist?list=PLnR2ZzQMH2ThBdVK7Iv6lmnBmd7WIO5fI&feature=shared)
@@ -14,7 +11,7 @@ The program I created is a simple script that changes the date format from DD/MM
 
 
 ## Changes
-I manually created this text file from the data in the [CheaterList](https://discord.gg/WNKQbacWU8) Discord server.\
+I manually created this text file from the data in the [Koro's Perdition](https://discord.gg/perdition) Discord server.\
 I fixed some things and added one listing because koro didn't make an listing embed of it.\
 I will probably update this as most listings are added. That's it, have a nice day.
 
@@ -35,3 +32,6 @@ I want it to be convenient to view this list so I decided to change every listin
 
 #### Update 4 - 01/20/2024 (Work in Progress)
 Started moving images to folders corresponding with player names to better organize the main folder.
+
+### Update 5 - 01/21/2024
+There is a new CheaterList Discord server so the CheaterList 2.0 file will be the most up to date list.

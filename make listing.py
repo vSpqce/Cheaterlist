@@ -18,7 +18,7 @@ if (discord == "unknown" or discord == "unk"):
     discordUsername = "unknown"
     id = ""
 else:
-    discordUsername, id = discord.split(", ")
+    discordUsername, id = discord.split(" ")
 
 cheatsUsed = input("Cheats used: ")
 date = input("Date (month/day/year): ")

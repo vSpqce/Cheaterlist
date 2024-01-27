@@ -22,6 +22,11 @@ else:
 
 cheatsUsed = input("Cheats used: ")
 date = input("Date (month/day/year): ")
+if date.startswith("r "):
+    date = date.replace("r ", "")
+    dateArray = date.split("/")
+
+    date = f"{dateArray[1]}/{dateArray[0]}/{dateArray[2]}"
 caughtBy = input("Caught by: ")
 positivity = input("Positive?: ")
 comment = input("Comment: ")

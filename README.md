@@ -13,7 +13,7 @@ The program I created is a simple script that changes the date format from DD/MM
 ## Changes
 I manually created this text file from the data in the [Koro's Perdition](https://discord.gg/perdition) Discord server.\
 I fixed some things and added one listing because koro didn't make an listing embed of it.\
-I will probably update this as most listings are added. That's it, have a nice day.
+I will probably update this as more listings are added. That's it, have a nice day.
 
 
 ## Updates

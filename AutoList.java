@@ -33,22 +33,29 @@ public class AutoList {
 
         while (data.hasNextLine()) {
             if (listingNumber == null) {
-                listingNumber = data.nextInt();
+                listingNumber = Integer.parseInt(data.next().replace(".", ""));
                 continue;
             }
             String line = data.nextLine().replace(":", "");
 
             if (line.startsWith("IGN")) {
-                line = commonReplace(line);
                 line = line.replace("IGN", "");
+                while (line.charAt(0) == ' ') {
+                    line = line.substring(1);
+                }
                 IGN = line;
             }
             else if (line.startsWith("Discord")) {
                 line = commonReplace(line);
                 line = line.replace("Discord", "");
+                if (line.equalsIgnoreCase("unk") || line.equalsIgnoreCase("idk")) {
+                    discord = "unknown";
+                    ID = "";
+                    continue;
+                }
                 discord = line;
             }
-            else if (line.startsWith("ID")) {
+            else if (line.startsWith("ID") && ID == null) {
                 if (line.equalsIgnoreCase("unk")) {
                     ID = "";
                     continue;

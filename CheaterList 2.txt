@@ -377,7 +377,7 @@ https://cdn.discordapp.com/attachments/1198409969771487323/1205667721199493191/U
 IGN: mqximuus
 Discord: unknown 
 Cheats used: auto
-Date: 4/2/24
+Date: 2/4/24
 Caught by: O4qr, Nokqrii
 Positive?: 100%
 Comment: could also be reaching but i have no fucking clue
@@ -385,3 +385,21 @@ Evidence:
 
 [original evidence]
 https://youtu.be/1czprw4YRAQ
+
+26.
+IGN: Kicento / Penshion
+Discord: kicento [750477413200298034]
+Cheats used: reach and velo
+Date: 2/7/24
+Caught by: Furzide ?
+Positive?: 90%
+Comment: this distance shown here is misleading, he's using somewhere around 3.1x, its just that the chances of you actually getting a perfect 3.1x hit when using 3.1x is very low
+basically if you have 3 blocks of reach the probability of you registering a perfect 3 blocks is also very low. so using 3.1 or more increases that probability of you registering 3 or over
+Evidence:
+https://youtu.be/a1950qmuqOw
+https://drive.google.com/drive/folders/1TlSB32JUxCbuvITQH1Jpi4UsKOYl9Ht2?usp=drive_link
+
+[original evidence]
+https://cdn.discordapp.com/attachments/1198409969771487323/1206509486848741417/2024-02-07_03-03-26_compressed.mp4?ex=65dc4485&is=65c9cf85&hm=9b024ff63903479197702c43c05efcaed3586eb37077fa62f62964e9eb7b6e8c&
+https://cdn.discordapp.com/attachments/1198409969771487323/1206509487599517716/image.png?ex=65dc4485&is=65c9cf85&hm=42e1549e06aa1a6146529df4b51aa0ff2f62ec2a38f083107fd647316099722c&
+https://cdn.discordapp.com/attachments/1198409969771487323/1206509487813562388/image.png?ex=65dc4485&is=65c9cf85&hm=70a51d53f1b4e17dfc128fe02f0665b0e8c092c9f91564a3c1c27edb0466cce9&

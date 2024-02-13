@@ -30,8 +30,8 @@ Since the original #90 listing was deleted from the discord, the server consider
 I want it to be convenient to view this list so I decided to change every listing number to the actual listing number on the CheaterList discord. The deleted listings will still show up if I saved them before deletion.
 [Note] This update reverts the number increment in [Update 2](#update-2---10172023)
 
-#### Update 4 - 01/20/2024 (Work in Progress)
-Started moving images to folders corresponding with player names to better organize the main folder.
+#### Update 4 - 01/20/2024
+Started moving images to folders corresponding with player names to better organize the folder.
 
 #### Update 5 - 01/21/2024
 There is a new CheaterList Discord server so the CheaterList 2 file will be the most up to date list.

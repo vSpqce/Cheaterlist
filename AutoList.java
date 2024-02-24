@@ -46,24 +46,18 @@ public class AutoList {
                 IGN = line;
             }
             else if (line.startsWith("Discord")) {
-                line = commonReplace(line);
                 line = line.replace("Discord", "");
                 if (line.equalsIgnoreCase("unk") || line.equalsIgnoreCase("idk")) {
                     discord = "unknown";
                     ID = "";
                     continue;
                 }
-                discord = line;
+                discord = line.replaceAll(" ", "");
             }
             else if (line.startsWith("ID") && ID == null) {
-                if (line.equalsIgnoreCase("unk")) {
-                    ID = "";
-                    continue;
-                }
-
-                line = commonReplace(line);
-                line = line.replace("ID", "");
-                ID = line;
+                line = line.replaceAll("[^0-9]", "");
+                
+                ID = "[" + line + "]";
             }
             else if (line.startsWith("Cheats Used")) {
                 line = line.replace("Cheats Used", "");
@@ -73,24 +67,31 @@ public class AutoList {
                 cheats = line;
             }
             else if (line.startsWith("Date")) {
-                line = commonReplace(line);
-                line = line.replace("Date", "").replace("DD/MM/YY", "");
                 line = line.replace("-", "/");
                 line = line.replace(".", "/");
                 line = line.replace("\\", "/");
+                line = line.replaceAll("[^(0-9)|/|r]", "");
                 
-                if (line.charAt(line.length() - 1) == 'r') {
-                    line = line.replace("r", "");
-                    String[] dateArray = line.split("/", 3);
-                    if (dateArray[1].charAt(0) == '0')
-                        dateArray[1] = dateArray[1].substring(1);
-                    date = dateArray[1] + "/" + dateArray[0] + "/" + dateArray[2];
-                    continue;
-                }
-
-                if (line.charAt(0) == '0')
+                while (! Character.isDigit(line.charAt(0))) {
                     line = line.substring(1);
-                date = line;
+                }
+                
+                String[] dateArray = line.split("/", 3);
+
+                if (dateArray[0].charAt(0) == '0')
+                    dateArray[0] = dateArray[0].substring(1);
+                
+                if (dateArray[1].charAt(0) == '0')
+                    dateArray[1] = dateArray[1].substring(1);
+
+                dateArray[2] = dateArray[2].substring(2);
+
+                date = dateArray[0] + "/" + dateArray[1] + "/" + dateArray[2];
+
+                if (dateArray[2].endsWith("r")) {
+                    dateArray[2] = dateArray[2].replace("r", "");
+                    date = dateArray[1] + "/" + dateArray[0] + "/" + dateArray[2];
+                }
             }
             else if (line.startsWith("Comment")) {
                 line = line.replace("Comment", "");

@@ -84,7 +84,8 @@ public class AutoList {
                 if (dateArray[1].charAt(0) == '0')
                     dateArray[1] = dateArray[1].substring(1);
 
-                dateArray[2] = dateArray[2].substring(2);
+                if (dateArray[2].length() == 4)
+                    dateArray[2] = dateArray[2].substring(2);
 
                 date = dateArray[0] + "/" + dateArray[1] + "/" + dateArray[2];
 

@@ -47,6 +47,9 @@ public class AutoList {
             }
             else if (line.startsWith("Discord")) {
                 line = line.replace("Discord", "");
+                while (line.charAt(0) == ' ') {
+                    line = line.substring(1);
+                }
                 if (line.equalsIgnoreCase("unk") || line.equalsIgnoreCase("idk")) {
                     discord = "unknown";
                     ID = "";
@@ -55,6 +58,9 @@ public class AutoList {
                 discord = line.replaceAll(" ", "");
             }
             else if (line.startsWith("ID") && ID == null) {
+                if (discord.equalsIgnoreCase("unknown")) {
+                    continue;
+                }
                 line = line.replaceAll("[^0-9]", "");
                 
                 ID = "[" + line + "]";
@@ -87,15 +93,22 @@ public class AutoList {
                 if (dateArray[2].length() == 4)
                     dateArray[2] = dateArray[2].substring(2);
 
+
                 date = dateArray[0] + "/" + dateArray[1] + "/" + dateArray[2];
 
                 if (dateArray[2].endsWith("r")) {
                     dateArray[2] = dateArray[2].replace("r", "");
+                    if (dateArray[2].length() == 4)
+                        dateArray[2] = dateArray[2].substring(2);
                     date = dateArray[1] + "/" + dateArray[0] + "/" + dateArray[2];
                 }
             }
             else if (line.startsWith("Comment")) {
                 line = line.replace("Comment", "");
+                if (line.length() <= 1) {
+                    comment = "none provided";
+                    continue;
+                }
                 while (line.charAt(0) == ' ') {
                     line = line.substring(1);
                 }
@@ -122,9 +135,16 @@ public class AutoList {
         }
         data.close();
 
+        String discordOut;
+        if (discord == null || discord.equalsIgnoreCase("unknown"))
+            discordOut = "unknown";
+        else
+            discordOut = discord + " " + ID;
+
+
         String output = listingNumber + "." +
                 "\nIGN: " + IGN +
-                "\nDiscord: " + discord + " " + ID +
+                "\nDiscord: " + discordOut +
                 "\nCheats used: " + cheats +
                 "\nDate: " + date +
                 "\nCaught by: " + caughtBy +

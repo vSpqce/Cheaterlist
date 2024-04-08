@@ -46,7 +46,8 @@ public class AutoList {
                 IGN = line;
             }
             else if (line.startsWith("Discord")) {
-                line = line.replace("Discord", "");
+                try {
+                    line = line.replace("Discord", "");
                 while (line.charAt(0) == ' ') {
                     line = line.substring(1);
                 }
@@ -56,6 +57,11 @@ public class AutoList {
                     continue;
                 }
                 discord = line.replaceAll(" ", "");
+                }
+                catch (Exception e) {
+                    discord = "unknown";
+                    ID = "";
+                }
             }
             else if (line.startsWith("ID") && ID == null) {
                 if (discord.equalsIgnoreCase("unknown")) {

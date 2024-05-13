@@ -9,6 +9,7 @@ import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
 
 import java.io.File;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class AutoList {
@@ -79,16 +80,23 @@ public class AutoList {
                 cheats = line;
             }
             else if (line.startsWith("Date")) {
+                line = line.replace("DD/MM/YY", "");
                 line = line.replace("-", "/");
                 line = line.replace(".", "/");
                 line = line.replace("\\", "/");
                 line = line.replaceAll("[^(0-9)|/|r]", "");
                 
-                while (! Character.isDigit(line.charAt(0))) {
+                while (line.length() > 0 && (! Character.isDigit(line.charAt(0)))) {
                     line = line.substring(1);
                 }
                 
                 String[] dateArray = line.split("/", 3);
+                
+                if (dateArray.length < 3) {
+                    date = "not provided";
+                    continue;
+                }
+                
 
                 if (dateArray[0].charAt(0) == '0')
                     dateArray[0] = dateArray[0].substring(1);
@@ -124,6 +132,12 @@ public class AutoList {
                 line = line.replace("Caught By", "");
                 while (line.charAt(0) == ' ') {
                     line = line.substring(1);
+                    
+                    if (line.length() < 1) {
+                        line = "unknown";
+                        break;
+                    }
+                     
                 }
                 caughtBy = line;
             }

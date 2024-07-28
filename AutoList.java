@@ -96,7 +96,6 @@ public class AutoList {
                     date = "not provided";
                     continue;
                 }
-                
 
                 if (dateArray[0].charAt(0) == '0')
                     dateArray[0] = dateArray[0].substring(1);
